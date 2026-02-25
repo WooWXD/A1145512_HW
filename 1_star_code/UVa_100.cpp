@@ -2,7 +2,7 @@
 #include <bits/stdc++.h>
 
 using namespace std;
-
+// commit 測試
 // 使用 vector 來當作 dp 陣列，並初始化為 0
 // dp[n] 將儲存從 n 開始到 1 的週期長度
 vector<int> dp(1000001, 0);
